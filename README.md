@@ -55,6 +55,5 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- Meta Llama2
 - Pinecone
 
